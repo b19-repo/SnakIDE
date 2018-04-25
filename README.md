@@ -1,0 +1,2 @@
+# SnakIDE
+Sandboxed Python IDE.
